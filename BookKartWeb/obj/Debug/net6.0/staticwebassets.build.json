@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "apMNELQKaDKWPhIecx5+SysyXQb7kY0L/0nQ0tn1SEg=",
+  "Hash": "NvPKQW6+d+s9wHYaJKgcTJ1T+MDc/rJHHlLmNkL+4DM=",
   "Source": "BookKartWeb",
   "BasePath": "_content/BookKartWeb",
   "Mode": "Default",
@@ -49,6 +49,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\Secure Self Training\\C#\\BookKartWeb\\BookKartWeb\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BookKartWeb.bundle.scp.css"
+    },
+    {
+      "Identity": "D:\\Secure Self Training\\C#\\BookKartWeb\\BookKartWeb\\wwwroot\\css\\bootswatchTheme.css",
+      "SourceId": "BookKartWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Secure Self Training\\C#\\BookKartWeb\\BookKartWeb\\wwwroot\\",
+      "BasePath": "_content/BookKartWeb",
+      "RelativePath": "css/bootswatchTheme.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\bootswatchTheme.css"
     },
     {
       "Identity": "D:\\Secure Self Training\\C#\\BookKartWeb\\BookKartWeb\\wwwroot\\css\\site.css",
